@@ -1,13 +1,13 @@
 # vertexai-sample
 VertexAI - Sample API code to communicate and try out different models  
 
-Installing the SDK:
-pip install --upgrade google-cloud-aiplatform
+## Installing the SDK:
+```pip install --upgrade google-cloud-aiplatform```
 
-Run the code:
-python3 testapi.py
+## Run the code:
+```python3 testapi.py```
 
-Sample output:
+## Sample output:
 Here are some name ideas for a website selling Raspberry Pi and add-ons, categorized by approach:
 
 **Catchy & Creative:**
